@@ -1,7 +1,12 @@
 <?php
+
 test3
 test4
 test5
+Test lin1
+Test lin2
+Test lin3
+
 /**
  * Displays site name.
  */
